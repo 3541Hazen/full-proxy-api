@@ -1,5 +1,6 @@
 {
+  "nodeModulesDir": "auto",
   "tasks": {
-    "start": "deno run main.ts"
+    "start": "deno run --allow-all main.ts"
   }
 }

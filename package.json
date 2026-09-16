@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "playwright": "npm:playwright@latest"
+  }
+}
